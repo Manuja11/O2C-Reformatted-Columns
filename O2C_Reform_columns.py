@@ -28,7 +28,7 @@ df_upd = df.copy()
 df_upd.drop(df.columns[[2,6,7,8,9]],axis= 1,inplace=True)
 
 ## rename unnamed columns
-df_upd.rename(columns={"Unnamed: 1":"Ticket #", "Unnamed: 11":"Account #"}, inplace=True)
+df_upd.rename(columns={"Unnamed: 1":"Ticket #", "Unnamed: 9":"Account #"}, inplace=True)
 
 ## remove duplicate rows
 df_upd.drop_duplicates(inplace=True)
