@@ -5,11 +5,11 @@
 #### Prerequisite - install Python and Git
 
 Open 'Command Prompt' and follow the instruction\
-![Command Prompt](https://github.com/Manuja11/Prior_Matrix/assets/134522804/0276c525-ad74-4805-ae49-94b93dfc1043)
+![Command prompt](https://github.com/Manuja11/O2C-Reformatted-Columns/assets/134522804/5b18358f-e04c-40fa-aec3-b29a8efbd95e)
 
 * Step 1:\
  Open Command prompt and choose the location you want to save the auto process.\
- For example, if you want save the file in the 'Sunshine Act' under 'Desktop', you can type 
+ For example, if you want save the file in the 'O2C-Reformatted-Columns' under 'Desktop', you can type 
 ```
 cd Desktop\O2C-Reformatted-Columns
 ```
